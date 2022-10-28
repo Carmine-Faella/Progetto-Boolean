@@ -1,0 +1,77 @@
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+  font-family:cursive;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.box{
+  width: 1500px;
+  height: 1100px;
+  margin: auto;
+  margin-top: 200px;
+  border-radius: 20px;
+  padding: 50px;
+  background-color: rgba(0,0,0,0.4);
+}
+
+header{
+  text-align: center;
+}
+
+.fotografia{
+  display: block;
+  margin:0 auto;
+  width: 400px;
+}
+
+.font{
+  font-size: 50px;
+  color: 	#32CD32;
+}
+
+nav{
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #32CD32;
+  text-align: center;
+}
+
+h2{
+  display: inline-block;
+  font-size: 30px;
+}
+
+span{
+  display: block;
+}
+
+.Barracaricamento{
+  height: 50px;
+  width: 700px;
+  background-color: orange;
+  border: black;
+  border-radius: 20px;
+}
+
+.Barracaricamento2{
+  height: 50px;
+  width: 900px;
+  background-color: green;
+  border: black;
+  border-radius: 20px;
+}
+
+.Barracaricamento3{
+  height: 50px;
+  width: 500px;
+  background-color: red;
+  border: black;
+  border-radius: 20px;
+}
